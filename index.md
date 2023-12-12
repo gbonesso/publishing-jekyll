@@ -15,3 +15,10 @@ Stargazers are fluent in **JavaScript**, so once you connect to their network, s
 ```js
 console.log("Take me to your leader");
 ```
+
+```ruby
+# Ruby code with syntax highlighting
+GitHubPages::Dependencies.gems.each do |gem, version|
+  s.add_dependency(gem, "= #{version}")
+end
+```
