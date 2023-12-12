@@ -3,6 +3,9 @@ title: Collectibles
 #layout: base.njk
 layout: default
 ---
+# Collectibles
+
+[Home](index.html) | [Cast](Cast.md)
 
 [Big Star Logo](images/logo_bigstar.svg){style="max-width:800px"}
 

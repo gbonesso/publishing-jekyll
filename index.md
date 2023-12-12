@@ -6,7 +6,7 @@ layout: default
 ---
 # StarGazers
 
-[Home](index.html) | [Cast](Cast.md) | [Collectibles](Collectibles.md)
+[Cast](Cast.md) | [Collectibles](Collectibles.md)
 
 ![{{title}}]({{img}}){class="img-fluid "}
 
