@@ -1,6 +1,7 @@
 ---
 title: Collectibles
-layout: base.njk
+#layout: base.njk
+layout: default
 ---
 
 [Big Star Logo](images/logo_bigstar.svg){style="max-width:800px"}
