@@ -11,7 +11,7 @@ console.log("Take me to your leader");
 ```
 
 # Aneirin
-<img src="images/Aneirin_tn.svg" alt="Aneirin" width=100>  
+<img src="images/aneirin_tn.svg" alt="Aneirin" width=100>  
 
 Aneirin is the foremost expert of cold climates in planetoids universe-wide, with a particular inquisitiveness in areas colder than -300 F / - 184.4444444 C (hence the profound personal interest in knitting mittens). Having travelled extensively, Aneirin enjoys collecting, receiving, and sending distinctive postcards from all corners of the macrocosm.
 
